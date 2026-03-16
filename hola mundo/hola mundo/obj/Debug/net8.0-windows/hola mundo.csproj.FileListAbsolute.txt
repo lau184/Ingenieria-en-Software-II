@@ -1,0 +1,33 @@
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\hola mundo\hola mundo\hola mundo\bin\Debug\net8.0-windows\hola mundo.exe
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\hola mundo\hola mundo\hola mundo\bin\Debug\net8.0-windows\hola mundo.deps.json
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\hola mundo\hola mundo\hola mundo\bin\Debug\net8.0-windows\hola mundo.runtimeconfig.json
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\hola mundo\hola mundo\hola mundo\bin\Debug\net8.0-windows\hola mundo.dll
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\hola mundo\hola mundo\hola mundo\bin\Debug\net8.0-windows\hola mundo.pdb
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\hola mundo\hola mundo\hola mundo\obj\Debug\net8.0-windows\hola_mundo.Form1.resources
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\hola mundo\hola mundo\hola mundo\obj\Debug\net8.0-windows\hola mundo.csproj.GenerateResource.cache
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\hola mundo\hola mundo\hola mundo\obj\Debug\net8.0-windows\hola mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\hola mundo\hola mundo\hola mundo\obj\Debug\net8.0-windows\hola mundo.AssemblyInfoInputs.cache
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\hola mundo\hola mundo\hola mundo\obj\Debug\net8.0-windows\hola mundo.AssemblyInfo.cs
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\hola mundo\hola mundo\hola mundo\obj\Debug\net8.0-windows\hola mundo.csproj.CoreCompileInputs.cache
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\hola mundo\hola mundo\hola mundo\obj\Debug\net8.0-windows\hola mundo.dll
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\hola mundo\hola mundo\hola mundo\obj\Debug\net8.0-windows\refint\hola mundo.dll
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\hola mundo\hola mundo\hola mundo\obj\Debug\net8.0-windows\hola mundo.pdb
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\hola mundo\hola mundo\hola mundo\obj\Debug\net8.0-windows\hola mundo.genruntimeconfig.cache
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\hola mundo\hola mundo\hola mundo\obj\Debug\net8.0-windows\ref\hola mundo.dll
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\HOLAMUNDITO\hola mundo\hola mundo\bin\Debug\net8.0-windows\hola mundo.exe
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\HOLAMUNDITO\hola mundo\hola mundo\bin\Debug\net8.0-windows\hola mundo.deps.json
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\HOLAMUNDITO\hola mundo\hola mundo\bin\Debug\net8.0-windows\hola mundo.runtimeconfig.json
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\HOLAMUNDITO\hola mundo\hola mundo\bin\Debug\net8.0-windows\hola mundo.dll
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\HOLAMUNDITO\hola mundo\hola mundo\bin\Debug\net8.0-windows\hola mundo.pdb
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\HOLAMUNDITO\hola mundo\hola mundo\obj\Debug\net8.0-windows\hola_mundo.Form1.resources
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\HOLAMUNDITO\hola mundo\hola mundo\obj\Debug\net8.0-windows\hola mundo.csproj.GenerateResource.cache
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\HOLAMUNDITO\hola mundo\hola mundo\obj\Debug\net8.0-windows\hola mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\HOLAMUNDITO\hola mundo\hola mundo\obj\Debug\net8.0-windows\hola mundo.AssemblyInfoInputs.cache
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\HOLAMUNDITO\hola mundo\hola mundo\obj\Debug\net8.0-windows\hola mundo.AssemblyInfo.cs
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\HOLAMUNDITO\hola mundo\hola mundo\obj\Debug\net8.0-windows\hola mundo.csproj.CoreCompileInputs.cache
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\HOLAMUNDITO\hola mundo\hola mundo\obj\Debug\net8.0-windows\hola mundo.sourcelink.json
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\HOLAMUNDITO\hola mundo\hola mundo\obj\Debug\net8.0-windows\hola mundo.dll
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\HOLAMUNDITO\hola mundo\hola mundo\obj\Debug\net8.0-windows\refint\hola mundo.dll
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\HOLAMUNDITO\hola mundo\hola mundo\obj\Debug\net8.0-windows\hola mundo.pdb
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\HOLAMUNDITO\hola mundo\hola mundo\obj\Debug\net8.0-windows\hola mundo.genruntimeconfig.cache
+C:\Users\lauri\source\repos\Ingenieria-en-Software-II\proyecto ing soft II\HOLAMUNDITO\hola mundo\hola mundo\obj\Debug\net8.0-windows\ref\hola mundo.dll
