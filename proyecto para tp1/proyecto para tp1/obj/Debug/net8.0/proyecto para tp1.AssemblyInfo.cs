@@ -11,15 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("hola mundo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("proyecto para tp1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ed9ad491004ddbf1ee0331ca6833ad0b79c3aca")]
-[assembly: System.Reflection.AssemblyProductAttribute("hola mundo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("hola mundo")]
+[assembly: System.Reflection.AssemblyProductAttribute("proyecto para tp1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("proyecto para tp1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
-[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
 
